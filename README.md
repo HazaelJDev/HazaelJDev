@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hazael Jiménez</h1>
-<h3 align="center">A passionate software developer and UX/UI designer from Mexico. Just another dreamer in this world.</h3>
+[![Hi! I'm Hazael Jiménez. A passionate software developer and UX/UI designer from Mexico. Just another dreamer in this world.](https://i.postimg.cc/RhbWr5WW/portada-github.webp)](https://www.linkedin.com/in/hazael-jimenez/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazaeljdev&label=Profile%20views&color=f28500&style=flat" alt="hazaeljdev" /> </p>
+<img src="https://komarev.com/ghpvc/?username=hazaeljdev&label=Profile%20views&color=f28500&style=flat" alt="hazaeljdev" align="right"/>
 
 <p align="left"> <a href="https://twitter.com/hazajdev" target="blank"><img src="https://img.shields.io/twitter/follow/hazajdev?logo=twitter&style=for-the-badge" alt="hazajdev" /></a> </p>
 
 - 🔭 I’m currently working on **freelance projects.**
+
+- 🎓 I studied Computer Systems Engineering at National Technological of Mexico Campus Cuautla.
 
 - 🌱 I’m currently learning **Astro, Storyblok and Nest JS.**
 
